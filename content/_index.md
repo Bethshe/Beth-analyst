@@ -1,6 +1,6 @@
 ---
-title: "Sharon Kendi"
-subtitle: "STATISTICIAN AND DATA ANALYST"
+title: "Bethsheila Wambui"
+subtitle: "DATA ANALYST"
 description: ""
 date: 2024-09-18T12:27:33-06:00
 images:
