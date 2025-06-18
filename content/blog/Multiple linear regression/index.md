@@ -3,7 +3,7 @@ title: "Multiple Linear Regression"
 subtitle: ""
 excerpt: ""
 date: 2024-11-13
-author: "Sharon Kendi"
+author: "Bethsheila Wambui"
 draft: false
 # layout options: single, single-sidebar
 layout: single

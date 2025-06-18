@@ -1,8 +1,8 @@
 ---
-title: Sharon Kendi Blog
+title: Bethsheila Wambui Blog
 description: |
   The greatest value of a picture is when it forces us to notice what we never expected to see.
-author: "Sharon Kendi"
+author: "Bethsheila Wambui"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -16,13 +16,13 @@ sidebar:
     The greatest value of a picture is when it forces us to notice what we never expected to see.
     
    
-  author: "Sharon Kendi"
+  author: "Bethsheila Wambui"
  
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Sharon Kendi"
+  author: "Bethsheila Wambui"
   show_author_byline: true
   show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config

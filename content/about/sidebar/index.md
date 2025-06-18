@@ -1,8 +1,8 @@
  ---
 ## Configure sidebar content in narrow column
-author: "SHARON KENDI"
-role: "STATISTICIAN AND DATA ANALYST"
-avatar_shape: square # circle, square, rounded
+author: "BETHSHEILA WAMBUI"
+role: "DATA ANALYST"
+avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: false
 audio_link_label: ""

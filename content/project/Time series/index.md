@@ -3,7 +3,7 @@ title: "Time Series Analysis"
 subtitle: ""
 excerpt: ""
 date: 2024-09-10
-author: "Sharon Kendi"
+author: "Bethsheila Wambui"
 draft: false
 tags:
   - Statistical Data Analysis

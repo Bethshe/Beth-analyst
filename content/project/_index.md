@@ -1,7 +1,7 @@
 ---
-title: Sharon Kendi Projects
+title: Bethsheila Wambui Projects
 description: "Your project will always be better if you share your ideas and collaborate."
-author: "Sharon Kendi"
+author: "Bethsheila Wambui"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

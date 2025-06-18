@@ -3,7 +3,7 @@ title: "Exploring Air Quality in New York: A Predictive Analysis of Ozone Levels
 subtitle: ""
 excerpt: ""
 date: 2024-09-12
-author: "Sharon Kendi"
+author: "Bethsheila Wambui"
 draft: false
 tags:
 - Statistical Data Analysis
